@@ -72,6 +72,13 @@
   max-width: 30ch;
 }
 
+.default_center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 4rem 0;
+}
+
 .center {
   display: flex;
   justify-content: center;
